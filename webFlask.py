@@ -2,9 +2,9 @@ from flask import Flask, render_template
 import base64
 
 CONFIG = {
-    'stu_name': '黄致远',
+    'stu_name': '马佳文',
     'stu_id': '2020140180',
-    'department': '人工智能学院',
+    'department': '现代邮政学院（自动化学院）',
     'status': '允许入校',
     'image_path': 'demo_img.jpeg'
 }
